@@ -185,3 +185,4 @@ typeguard==4.4.1
 narwhals==1.19.1
 validators==0.34.0
 jiter==0.8.2
+reportlab==4.1.0
