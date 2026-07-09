@@ -1,0 +1,14 @@
+# Virtual environment
+ds_agent/
+
+# Environment variables containing sensitive secrets
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
